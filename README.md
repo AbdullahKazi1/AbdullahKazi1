@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - :zap: Fun fact: ...
 -->
 # Abdullah Kazi. - Senior Full-Stack Developer
-![Top Rated Upwork Profile](https://miro.medium.com/v2/resize:fit:720/format:webp/1*WpY8-8OiEpenpd7c-hzITA.png)
+![Top Rated Upwork Profile](https://miro.medium.com/v2/resize:fit:720/format:webp/1*OJ5i1kYHfhE3qZkGXX6NXg.png)
 # Full Stack Developer | JavaScript | PHP/Laravel | AWS | API Integration
 ## Introduction
 Hello! I'm Abdullah Kazi, a Full Stack Developer with 6 years of experience. Specializing in JavaScript, PHP/Laravel, and AWS, I have a strong background in web development, focusing on creating efficient and scalable solutions.
